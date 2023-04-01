@@ -1,6 +1,9 @@
 # model/tokenizer
-model_name: # REPLACE WITH LLAMA MODEL NAME
-tokenizer_name: # REPLACE WITH LLAMA MODEL NAME
+model_name: # update with llama model name
+tokenizer_name: # update with llama model name
+lora: true
+lora_path: "tloen/alpaca-lora-7b"
+
 
 
 max_new_tokens: 512

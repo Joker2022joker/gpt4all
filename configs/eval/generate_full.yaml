@@ -1,7 +1,7 @@
 # model/tokenizer
-model_name: # REPLACE WITH LLAMA MODEL NAME
-tokenizer_name: # REPLACE WITH LLAMA MODEL NAME
-
+model_name: # update
+tokenizer_name: # update
+lora_path: "no-lora"
 
 max_new_tokens: 512
 temperature: 0.001

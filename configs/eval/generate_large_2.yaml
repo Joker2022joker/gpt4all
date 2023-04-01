@@ -1,7 +1,8 @@
 # model/tokenizer
-model_name: "zpn/llama-7b"
-tokenizer_name: "zpn/llama-7b"
-
+model_name: # update
+tokenizer_name: # update
+lora: true
+lora_path: # update
 
 max_new_tokens: 512
 temperature: 0.001
